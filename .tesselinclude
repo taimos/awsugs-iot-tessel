@@ -1,0 +1,3 @@
+certificate.pem.crt
+private.pem.key
+root-certificate.pem.crt
